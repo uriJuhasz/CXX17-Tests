@@ -1,0 +1,1 @@
+/usr/bin/c++   -pedantic -Wall -std=c++17  -O0 -g3 -g   CMakeFiles/cxxtests.dir/main.cpp.o  -o cxxtests -rdynamic 
