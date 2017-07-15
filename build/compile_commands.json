@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/uri/projects/CXXTests/build",
-  "command": "/usr/bin/c++     -pedantic -Wall -std=c++17  -O0 -g3 -g   -o CMakeFiles/cxxtests.dir/main.cpp.o -c /home/uri/projects/CXXTests/main.cpp",
-  "file": "/home/uri/projects/CXXTests/main.cpp"
-}
-]

@@ -1,7 +1,0 @@
-/home/uri/projects/CXXTests/build/CMakeFiles/install/strip.dir
-/home/uri/projects/CXXTests/build/CMakeFiles/install/local.dir
-/home/uri/projects/CXXTests/build/CMakeFiles/cxxtests.dir
-/home/uri/projects/CXXTests/build/CMakeFiles/edit_cache.dir
-/home/uri/projects/CXXTests/build/CMakeFiles/rebuild_cache.dir
-/home/uri/projects/CXXTests/build/CMakeFiles/install.dir
-/home/uri/projects/CXXTests/build/CMakeFiles/list_install_components.dir
